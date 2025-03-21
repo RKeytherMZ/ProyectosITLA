@@ -1,0 +1,15 @@
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\bin\Debug\net9.0\ProyectoContactes.exe
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\bin\Debug\net9.0\ProyectoContactes.deps.json
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\bin\Debug\net9.0\ProyectoContactes.runtimeconfig.json
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\bin\Debug\net9.0\ProyectoContactes.dll
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\bin\Debug\net9.0\ProyectoContactes.pdb
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.AssemblyInfoInputs.cache
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.AssemblyInfo.cs
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.csproj.CoreCompileInputs.cache
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.sourcelink.json
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.dll
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\refint\ProyectoContactes.dll
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.pdb
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ProyectoContactes.genruntimeconfig.cache
+C:\c# proyect\ProyectosITLA\ProyectoContactes\ProyectoContactes\obj\Debug\net9.0\ref\ProyectoContactes.dll
