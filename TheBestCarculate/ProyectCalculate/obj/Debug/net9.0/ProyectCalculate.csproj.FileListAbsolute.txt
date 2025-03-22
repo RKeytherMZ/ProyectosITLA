@@ -1,0 +1,15 @@
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\bin\Debug\net9.0\ProyectCalculate.exe
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\bin\Debug\net9.0\ProyectCalculate.deps.json
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\bin\Debug\net9.0\ProyectCalculate.runtimeconfig.json
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\bin\Debug\net9.0\ProyectCalculate.dll
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\bin\Debug\net9.0\ProyectCalculate.pdb
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.AssemblyInfoInputs.cache
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.AssemblyInfo.cs
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.csproj.CoreCompileInputs.cache
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.sourcelink.json
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.dll
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\refint\ProyectCalculate.dll
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.pdb
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ProyectCalculate.genruntimeconfig.cache
+C:\c# proyect\ProyectosITLA\TheBestCarculate\ProyectCalculate\obj\Debug\net9.0\ref\ProyectCalculate.dll
