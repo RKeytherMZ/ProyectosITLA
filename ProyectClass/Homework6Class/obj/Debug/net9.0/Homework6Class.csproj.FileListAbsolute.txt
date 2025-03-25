@@ -1,0 +1,15 @@
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\bin\Debug\net9.0\Homework6Class.exe
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\bin\Debug\net9.0\Homework6Class.deps.json
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\bin\Debug\net9.0\Homework6Class.runtimeconfig.json
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\bin\Debug\net9.0\Homework6Class.dll
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\bin\Debug\net9.0\Homework6Class.pdb
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.AssemblyInfoInputs.cache
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.AssemblyInfo.cs
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.csproj.CoreCompileInputs.cache
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.sourcelink.json
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.dll
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\refint\Homework6Class.dll
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.pdb
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\Homework6Class.genruntimeconfig.cache
+C:\c# proyect\ProyectosITLA\ProyectClass\Homework6Class\obj\Debug\net9.0\ref\Homework6Class.dll
